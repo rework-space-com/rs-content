@@ -5,7 +5,8 @@ timeout = 300000
 theme = ["gitlab.com/rework-space.com/rs-site/rs-theme"]
 
 DefaultContentLanguage = "en"
-Paginate = 3 # for blog page
+[pagination]
+  pagerSize = 3 # for blog page
 enableRobotsTXT = true
 
 [taxonomies]
@@ -32,7 +33,7 @@ enableRobotsTXT = true
       customFooterLine1 = "10 Berezhans'ka St, office 82"
       customFooterLine2 = '46027, Ternopil, Ukraine'
       customFooterLine3 = '+38 067 324 6141'
-      read_more_button = 'Read more ->'
+      read_more_button = 'Read more'
       tags = 'Tags'
       blog = 'Blog'
       all_articles = 'All articles'
@@ -67,7 +68,7 @@ enableRobotsTXT = true
       customFooterLine1 = 'вул. Бережанська 10, офіс 82'
       customFooterLine2 = 'м.Тернопіль, 46027,  Україна'
       customFooterLine3 = '+38 068 699 3913'
-      read_more_button = 'Детальніше ->'
+      read_more_button = 'Детальніше'
       tags = 'Теги'
       blog = 'Блог'
       all_articles = 'Усі статті'
@@ -110,6 +111,7 @@ enableRobotsTXT = true
   date_format = '2006-01-02'
   post_content_classes = "avenir"
   gtm = "GTM-dev"
+  custom_css = ["custom.css"]
 
 [privacy]
   [privacy.googleAnalytics]

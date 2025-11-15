@@ -1,6 +1,6 @@
 ---
 title: 'Від ідеї до гранту: Наш шлях з Seeds of Bravery '
-url: '/ua/blog/2025-17-20-winnig-seeds-of-bravery-grant'
+url: '/ua/blog/2025-17-20-winning-seeds-of-bravery-grant'
 type: article
 omit_header_text: false
 featured_image: '/static-blog-images/post-8/seeds-background.png'
@@ -10,22 +10,23 @@ twitter_sharing_image: '/static-blog-images/post-8/seeds-of-bravery-twitter-shar
 alt: 'Picture for article From Idea to Grant: Our Journey with Seeds of Bravery'
 keywords: [ 'Seeds of Bravery', 'UASEEDs', 'grant', 'Ukraine', 'innovation' ]
 date: 2025-10-17
-blogs: ['Grant', 'FreeIPA', 'Rework-Space', 'Ukraine']
+blogs: [ 'Grant', 'FreeIPA', 'Rework-Space', 'Ukraine' ]
 draft: false
 ---
 
 У світі, де хмарні технології є основою будь-якого цифрового бізнесу, ефективне управління інфраструктурою стає не
 просто технічною задачею, а стратегічною перевагою. Для нас, команди Rework-Space, цей виклик став точкою відліку. Ми
 бачили, як компанії, працюючи з десятками сервісів у різних хмарних провайдерів, втрачають контроль, стикаючись зі
-зростанням витрат і хаосом в налаштуваннях. Так народилася ідея RS-DataPlatform - рішення, яке повертає інженерам 
-контроль і прозорість. В її основі - проєкт з відкритим кодом, створений командою Rework-Space 
-{{< color-link link_title="Terraform-провайдера" path="https://registry.terraform.io/providers/rework-space-com/freeipa/latest/docs" target="_blank" >}},
- який активно використовується та розвивається зусиллями спільноти з різних країн на платформі GitHub.
+зростанням витрат і хаосом в налаштуваннях. Так народилася ідея RS-DataPlatform - рішення, яке повертає інженерам
+контроль і прозорість. В її основі - проєкт з відкритим кодом, створений командою Rework-Space
+{{< color-link link_title="Terraform-провайдера"
+path="https://registry.terraform.io/providers/rework-space-com/freeipa/latest/docs" target="_blank" >}},
+який активно використовується та розвивається зусиллями спільноти з різних країн на платформі GitHub.
 
 Але ідея, навіть найсильніша, потребує ресурсів для старту. Як перетворити амбітний концепт на реальний продукт,
 особливо в умовах обмежених ресурсів молодого стартапу? Для нас цією можливістю стала грантова програма
-{{< color-link link_title="Seeds of Bravery (USEEDs)" path="https://seedsofbravery.eu/" target="_blank" >}}.
- Це історія про наш шлях - від першого рядка коду до першого отриманого фінансування.
+{{< color-link link_title="Seeds of Bravery (UASEEDs)" path="https://seedsofbravery.eu/" target="_blank" >}}.
+Це історія про наш шлях - від першого рядка коду до першого отриманого фінансування.
 
 {{< img src="/blog-images/post-8/seeds-of-bravery-badge.png" alt="Відзнака переможця Seeds of Bravery" >}}
 
@@ -35,9 +36,10 @@ draft: false
 фінансування для українського deep-tech стартапу - це завжди непростий квест. Ми шукали не просто інвестиції, а "розумні
 гроші" - підтримку, яка б включала експертизу, менторство та доступ до спільноти однодумців.
 
-Програма Innovative Entrepreneurship від Seeds of Bravery (USEEDs) одразу привернула нашу увагу. На відміну від багатьох
-інших фондів, вона робила акцент на інноваціях та довгостроковому потенціалі, а не на миттєвій монетизації. Це був шанс 
-не просто отримати фінансування, а й стати частиною європейської екосистеми, що підтримує сміливі технологічні рішення.
+Програма Innovative Entrepreneurship від Seeds of Bravery (UASEEDs) одразу привернула нашу увагу. На відміну від
+багатьох інших фондів, вона робила акцент на інноваціях та довгостроковому потенціалі, а не на миттєвій монетизації. Це 
+був шанс не просто отримати фінансування, а й стати частиною європейської екосистеми, що підтримує сміливі технологічні 
+рішення.
 
 ### {{< color-text text="Крок 2: Підготовка заявки" >}}
 
@@ -58,7 +60,8 @@ DevOps", а платформа для досягнення цифрового с
 прохання про гроші, а пропозиція партнерства, де ми чітко показуємо, як інвестовані в нас ресурси перетворяться на
 вимірювані результати.
 
-{{< img src="/blog-images/post-8/screenshot-from-google-meet.png" alt="Онлайн зустріч команди Rework-Space під час роботи над заявкою" >}}
+{{< img src="/blog-images/post-8/screenshot-from-google-meet.png" alt="Онлайн зустріч команди Rework-Space під час
+роботи над заявкою" >}}
 
 ### {{< color-text text="Поради для стартапів, що шукають фінансування:" >}}
 

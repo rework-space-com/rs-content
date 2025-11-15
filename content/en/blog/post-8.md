@@ -1,6 +1,6 @@
 ---
 title: 'From Idea to Grant: Our Journey with Seeds of Bravery'
-url: '/blog/2025-10-17-winnig-seeds-of-bravery-grant'
+url: '/blog/2025-10-17-winning-seeds-of-bravery-grant'
 type: article
 omit_header_text: false
 featured_image: '/static-blog-images/post-8/seeds-background.png'
@@ -24,7 +24,7 @@ engineers back control and transparency. It is based on an open source project c
 
 But an idea, even the strongest one, needs resources to get started. How do you turn an ambitious concept into a real
 product, especially with the limited resources of a young startup? For us, the
-{{< color-link link_title="Seeds of Bravery (USEEDs)" path="https://seedsofbravery.eu/" target="_blank" >}},
+{{< color-link link_title="Seeds of Bravery (UASEEDs)" path="https://seedsofbravery.eu/" target="_blank" >}},
  grant program was that opportunity. This is the story of our journey - from the first line of code to the first 
 funding received.
 
@@ -37,7 +37,7 @@ For a Ukrainian deep-tech startup is always a difficult quest to secure the nece
 for investment, but for "smart money" - support that would include expertise, mentorship, and access to a community of 
 like-minded people.
 
-The Innovative Entrepreneurship program from Seeds of Bravery (USEEDs) immediately caught our attention. Unlike many 
+The Innovative Entrepreneurship program from Seeds of Bravery (UASEEDs) immediately caught our attention. Unlike many 
 other funds, it focused on innovation and long-term potential, not on immediate monetization. It was a chance not only 
 to get funding but also to become part of a European ecosystem that supports bold technological solutions.
 

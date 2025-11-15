@@ -1,5 +1,5 @@
 ---
-title: 'Від ідеї до гранту: Наш шлях з Seeds of Bravery '
+title: 'Від ідеї до гранту: Наш шлях з Seeds of Bravery'
 url: '/ua/blog/2025-17-20-winning-seeds-of-bravery-grant'
 type: article
 omit_header_text: false
@@ -60,8 +60,7 @@ DevOps", а платформа для досягнення цифрового с
 прохання про гроші, а пропозиція партнерства, де ми чітко показуємо, як інвестовані в нас ресурси перетворяться на
 вимірювані результати.
 
-{{< img src="/blog-images/post-8/screenshot-from-google-meet.png" alt="Онлайн зустріч команди Rework-Space під час
-роботи над заявкою" >}}
+{{< img src="/blog-images/post-8/screenshot-from-google-meet.png" alt="Онлайн зустріч команди Rework-Space під час роботи над заявкою" >}}
 
 ### {{< color-text text="Поради для стартапів, що шукають фінансування:" >}}
 

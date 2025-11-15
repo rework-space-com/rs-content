@@ -1,6 +1,6 @@
 ---
 title: 'Від ідеї до гранту: Наш шлях з Seeds of Bravery'
-url: '/ua/blog/2025-17-20-winning-seeds-of-bravery-grant'
+url: '/ua/blog/2025-17-20-winnig-seeds-of-bravery-grant'
 type: article
 omit_header_text: false
 featured_image: '/static-blog-images/post-8/seeds-background.png'

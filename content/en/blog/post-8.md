@@ -1,6 +1,6 @@
 ---
 title: 'From Idea to Grant: Our Journey with Seeds of Bravery'
-url: '/blog/2025-10-17-winning-seeds-of-bravery-grant'
+url: '/blog/2025-10-17-winnig-seeds-of-bravery-grant'
 type: article
 omit_header_text: false
 featured_image: '/static-blog-images/post-8/seeds-background.png'

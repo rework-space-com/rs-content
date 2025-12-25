@@ -87,7 +87,7 @@ managers;
 
 ### Implementation and Review
 
-This plan is valid from July 2025 and will be:
+This plan is valid from June 2025 and will be:
 - reviewed annually;
 - updated when necessary based on data, feedback, or changes in legislation;
 - communicated to all employees and relevant partners.

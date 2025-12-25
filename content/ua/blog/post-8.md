@@ -10,7 +10,7 @@ twitter_sharing_image: '/static-blog-images/post-8/seeds-of-bravery-twitter-shar
 alt: 'Picture for article From Idea to Grant: Our Journey with Seeds of Bravery'
 keywords: [ 'Seeds of Bravery', 'UASEEDs', 'grant', 'Ukraine', 'innovation' ]
 date: 2025-10-17
-blogs: [ 'Grant', 'FreeIPA', 'Rework-Space', 'Ukraine' ]
+blogs: [ 'Grant', 'FreeIPA', 'Terraform', 'Rework-Space', 'Ukraine' ]
 draft: false
 ---
 

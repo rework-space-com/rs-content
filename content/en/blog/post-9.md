@@ -1,15 +1,15 @@
 ---
 title: 'The Difference Between Knowing the Name of a User and Knowing the User'
-url: '/blog/2025-12-02-rs-dataplatform-project-concept'
+url: '/blog/2025-12-23-rs-dataplatform-project-concept'
 type: article
 omit_header_text: false
-featured_image: '/static-blog-images/post-8/seeds-background.png'
-summary_image: '/blog-images/post-8/seeds-of-bravery.png'
-sharing_image: '/static-blog-images/post-8/post-8-short-seeds-of-bravery-2025.png'
-twitter_sharing_image: '/static-blog-images/post-8/seeds-of-bravery-twitter-share.png'
+featured_image: '/static-blog-images/post-9/rs-dataplatform-banner.jpg'
+summary_image: '/blog-images/post-9/image17-short.jpeg'
+sharing_image: '/static-blog-images/post-9/image17-share.jpeg'
+twitter_sharing_image: '/static-blog-images/post-9/image17-twitter-share.jpeg'
 alt: 'Banner for article The Difference Between Knowing the Name of a User and Knowing the User'
 keywords: [ 'DevOps', 'Seeds of Bravery', 'UASEEDs', 'Cloud Security', 'Hybrid Cloud', 'IAM', 'Open source' ]
-date: 2025-12-02
+date: 2025-12-23
 blogs: [ 'DevOps', 'FreeIPA', 'Terraform', 'Rework-Space', 'Ukraine' ]
 draft: false
 ---
@@ -17,8 +17,8 @@ draft: false
 ## {{< color-text text="Stop the madness of Hybrid Cloud Identity" >}}
 
 You know, our team learned very early the difference between knowing the name of something and knowing something. You
-can look at a bird and say, "That’s a brown-throated thrush", or in German, "Die Schwarzkehldrossel", or in AWS, "arn:
-aws:iam::123456:user/Bob". But knowing those names doesn't tell you anything about the bird. And it certainly doesn't
+can look at a bird and say, "That’s a brown-throated thrush", or in German, "Die Schwarzkehldrossel", or in AWS, 
+"arn:aws:iam::123456:user/Bob". But knowing those names doesn't tell you anything about the bird. And it certainly doesn't
 tell you anything about Bob.
 
 How we build data platforms in the cloud today? It’s absolutely crazy. It’s a mess!

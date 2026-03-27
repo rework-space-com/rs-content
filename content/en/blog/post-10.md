@@ -107,7 +107,7 @@ Let's consider a bug mentioned in the
 Picture 5. Where users from GroupA have the lowest privileges and aren’t able to add members to the child groups, and
 perform any changes in user accounts from privileged groups.
 
-{{< img src="/blog-images/post-10/group-hierarchy.png" alt="Picture 5. Test realm group hierarchy." css_class="img-scale-down">}}
+{{< img src="/blog-images/post-10/group-hierarchy.png" alt="Picture 5. Test realm group hierarchy." >}}
 
 After logging in with the GroupA member’s account, who has the least privileges, it is possible to add a new user to
 GroupC (Picture 6). The action can only be performed during creation requests.

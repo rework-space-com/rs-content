@@ -67,7 +67,7 @@ Website is deploying automatically by CI from `main` branch to
 [GitLab Stage Deploy](https://stage-gitlab.rework-space.com).
 
 For final deployment, make sure to push changes (**ONLY** `content`, theme will be getting from GitLab) from the 
-GitLab repository to the GitHub repository at [rc-content](https://github.com/rework-space-com/rs-content). 
+GitLab repository to the GitHub repository at [rs-content](https://github.com/rework-space-com/rs-content). 
 The website will be automatically deployed from the main branch of the GitHub repository.
 
 ### Local Development
@@ -109,7 +109,7 @@ sharing_image: '/folder/image-name-share.jpg'
 twitter_sharing_image: '/folder/image-name-twitter-share.jpg'
 alt: 'Picture for Post Title'
 keywords: ['some', 'keywords']
-blogs: ['some', 'tags']
+blog_tags: ['some', 'tags']
 date: 2023-03-24
 draft: true
 not_translate: true
@@ -129,7 +129,7 @@ as summary_image from `/assets/` folder or specify a separate image and place it
 folder or specify a separate image and place it in `/static/` folder.
 - `alt` - for banner image.
 - `keywords` - for SEO improvements. It will be added to head metadata.
-- `blogs` - tags for filtering blogs on page.
+- `blog_tags` - tags for filtering blogs on page.
 - `date` - post published date, it is using to sort posts on Blog page.
 - `draft` - if "true" post won't be published (and won't be visible even on local deploy).
 - `not_translate` - if "true" post won't be displayed on blog page.

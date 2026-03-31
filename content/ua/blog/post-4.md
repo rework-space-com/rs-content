@@ -10,7 +10,7 @@ twitter_sharing_image: '/static-blog-images/post-3/post-3-twitter-share.jpg'
 alt: 'ілюстрація до статті Заголовок статті'
 keywords: ['', '', '']
 date: 2023-03-24
-blogs: ['','', '']
+blog_tags: ['','', '']
 draft: true
 ---
 

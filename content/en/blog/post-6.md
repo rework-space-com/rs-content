@@ -9,7 +9,7 @@ sharing_image: '/static-blog-images/post-6/logo.png'
 twitter_sharing_image: '/static-blog-images/post-6/logo.png'
 alt: 'Visualizing QueryOptima in Action'
 keywords: ['Data Optimization', 'BI Integration', 'QueryOptima', 'Business Intelligence', 'Data Aggregation', 'Cross-Source Queries', 'Apache Arrow']
-blogs: ['QueryOptima','Data Optimization', 'Big Data']
+blog_tags: ['QueryOptima','Data Optimization', 'Big Data']
 date: 2024-10-04
 ---
 

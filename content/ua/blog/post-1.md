@@ -9,7 +9,7 @@ sharing_image: '/blog-images/post-1/post-1-short.jpg'
 twitter_sharing_image: '/static-blog-images/post-1/post-1-twitter-share.jpg'
 alt: 'ілюстрація з Terraform DNS провайдер для керування FreeIPA'
 keywords: ['terraform', 'freeipa', 'dns', 'provider', 'authentication', 'authorization']
-blogs: ['Terraform', 'FreeIPA', 'Rework-Space']
+blog_tags: ['Terraform', 'FreeIPA', 'Rework-Space']
 date: 2022-07-01
 ---
 

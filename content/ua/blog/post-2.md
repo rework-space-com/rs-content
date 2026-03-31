@@ -9,7 +9,7 @@ sharing_image: '/blog-images/post-2/post-2-short.jpg'
 twitter_sharing_image: '/static-blog-images/post-2/post-2-twitter-share.jpg'
 alt: 'ілюстрація з Стримування DDoS атак для краудфандингової ініціативи Canadian Bayraktar'
 keywords: ['DDoS', 'mitigation', 'google', 'jigsaw', 'hosting', 'crowdfunding']
-blogs: ['Ukraine','UHelpUkraine', 'Cyber-security']
+blog_tags: ['Ukraine','UHelpUkraine', 'Cyber-security']
 date: 2022-08-01
 ---
 

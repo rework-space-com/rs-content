@@ -11,7 +11,7 @@ alt: 'Picture for article Rework-Space at the 8th CASSINI Hackathon'
 keywords: ['8th CASSINI Hackathon', 'International Development', 'Innovators', 'Space for Defence and Security',
            'Copernicus', 'TNTU']
 date: 2024-12-01
-blogs: ['CASSINI', 'QueryOptima', 'Rework-Space', 'Ukraine']
+blog_tags: ['CASSINI', 'QueryOptima', 'Rework-Space', 'Ukraine']
 draft: false
 ---
 

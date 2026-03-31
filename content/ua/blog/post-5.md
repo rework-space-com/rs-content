@@ -10,7 +10,7 @@ twitter_sharing_image: '/static-blog-images/post-5/post-5-cassini-hackathon-twit
 alt: 'ілюстрація до Участь у Cassini Hackathon'
 keywords: ['6th CASSINI Hackathon', 'International Development', 'Humanitarian Aid', 'Cooperative education',
            'Ternopil Ivan Puluj National Technical University', 'Sustainable infrastructure development']
-blogs: ['CASSINI', 'TNTU', 'Rework-Space', 'Ukraine']
+blog_tags: ['CASSINI', 'TNTU', 'Rework-Space', 'Ukraine']
 date: 2023-11-14
 ---
 

@@ -10,7 +10,7 @@ twitter_sharing_image: '/static-blog-images/post-10/keyboard-enlarged-by-loupe-t
 alt: 'Banner for article Keycloak Fine-Grained Admin Permissions (FGAP) V2: Fine-Grained Access & Safe Impersonation'
 keywords: [ 'Keycloak', 'permissions', 'user impersonation', 'access policies', 'DevOps', 'authentication', 'security' ]
 date: 2026-03-27
-blogs: [ 'Keycloak', 'Terraform', 'DevOps' ]
+blog_tags: [ 'Keycloak', 'Terraform', 'DevOps' ]
 draft: false
 ---
 

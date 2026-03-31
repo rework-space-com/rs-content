@@ -10,7 +10,7 @@ twitter_sharing_image: '/static-blog-images/post-9/image17-twitter-share.jpeg'
 alt: 'Banner for article The Difference Between Knowing the Name of a User and Knowing the User'
 keywords: [ 'DevOps', 'Seeds of Bravery', 'UASEEDs', 'Cloud Security', 'Hybrid Cloud', 'IAM', 'Open source' ]
 date: 2025-12-23
-blogs: [ 'DevOps', 'FreeIPA', 'Terraform', 'Rework-Space', 'Ukraine' ]
+blog_tags: [ 'DevOps', 'FreeIPA', 'Terraform', 'Rework-Space', 'Ukraine' ]
 draft: false
 ---
 

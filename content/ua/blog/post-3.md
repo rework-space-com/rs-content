@@ -9,7 +9,7 @@ sharing_image: '/static-blog-images/post-3/post-3-share.jpg'
 twitter_sharing_image: '/static-blog-images/post-3/post-3-twitter-share.jpg'
 alt: 'ілюстрація з Обробка зображень для сайту Hugo'
 keywords: ['Hugo', 'shortcodes', 'processing', 'images', 'optimisation', 'srcset']
-blogs: ['Hugo','HTTP Archive']
+blog_tags: ['Hugo','HTTP Archive']
 date: 2023-01-30
 ---
 

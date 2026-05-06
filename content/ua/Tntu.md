@@ -13,6 +13,27 @@ menu:
 
 ---
 
+**2026-05-04**
+
+Компанія Rework-Space пропонує розглянути можливість проходження практики та стажування за результатами співбесіди. Для 
+розгляду заявки надішліть резюме на одну із запропонованих вакансій (комерційний досвід не вимагається, онлайн формат):
+
+1. [Trainee Frontend Developer (TypeScript, Angular)](https://opportunity.rework-space.com/jobs/Careers-at-Rework-Space/3644000004183033/Trainee-Frontend-Angular-Developer-internship-?source=CareerSite)
+2. [Trainee Infrastructure Engineer/DevOps](https://opportunity.rework-space.com/jobs/Careers-at-Rework-Space/3644000001932031/Trainee-Infrastructure-Engineer-DevOps-internship-?source=CareerSite)
+3. [Trainee Software Engineer](https://opportunity.rework-space.com/jobs/Careers-at-Rework-Space/3644000001914025/Trainee-Software-Engineer-internship-?source=CareerSite)
+
+Для подачі заявки необхідно нажати “I'm interested”. За результатами практики кращим студентам пропонуємо оплачуване 
+стажування та працевлаштування.
+
+Приклади проєктів компанії з відкритим кодом:
+
+- https://github.com/rework-space-com/terraform-provider-freeipa
+- https://gitlab.com/rework-space.com/open-source-mvps/queryoptima
+
+
+### &nbsp;
+---
+
 **2025-04-21**
 
 Для проходження офіційної літньої практики запрошуються студенти ТНТУ 1-3 курсів спеціальностей:

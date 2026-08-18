@@ -1,0 +1,55 @@
+{
+  "lockfileVersion": 1,
+  "generated": "2026-08-12T00:00:00Z",
+  "skillsDir": "skills",
+  "skills": {
+    "blog-writing-guide": {
+      "path": "skills/blog-writing-guide",
+      "entry": "skills/blog-writing-guide/SKILL.md",
+      "description": "Writing standards, voice, and quality bar for engineering blog posts (voice, banned language, openings, headings, formatting, SEO, AI-tell avoidance).",
+      "source": {
+        "type": "registry",
+        "registry": "skills.sh",
+        "url": "https://www.skills.sh/getsentry/skills/blog-writing-guide",
+        "repository": "https://github.com/getsentry/skills",
+        "skill": "blog-writing-guide"
+      },
+      "files": {
+        "SKILL.md": {
+          "sha256": "8aba654d1af0820ee83370ddcbe51c24fb1c624c169931bd87f36247d181caa4",
+          "bytes": 12004
+        }
+      },
+      "usedBy": [
+        "specs/post-11/constitution.md",
+        "specs/post-11/spec.md",
+        "specs/post-11/plan.md",
+        "specs/post-11/tasks.md"
+      ]
+    },
+    "content-research-writer": {
+      "path": "skills/content-research-writer",
+      "entry": "skills/content-research-writer/SKILL.md",
+      "description": "Collaborative writing process: research, citations, outlining, hook iteration, and section-by-section feedback.",
+      "source": {
+        "type": "git",
+        "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer",
+        "repository": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "ref": "master",
+        "path": "content-research-writer"
+      },
+      "files": {
+        "SKILL.md": {
+          "sha256": "27eb5c1a0a88a9c1c64f6fcd9c28782e6a6e70d5da43233c4e99ade946f74825",
+          "bytes": 14244
+        }
+      },
+      "usedBy": [
+        "specs/post-11/constitution.md",
+        "specs/post-11/plan.md",
+        "specs/post-11/tasks.md",
+        "specs/post-11/research.md"
+      ]
+    }
+  }
+}

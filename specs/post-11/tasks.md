@@ -57,4 +57,4 @@ content-research-writer feedback workflow. **[CRW]**
 
 ## Follow-up (non-blocking)
 - [x] T501: Ukrainian translation → `content/ua/blog/post-11.md`. *Shipped: full UA body incl. FAQ; title/alt translated per author request (unlike post-10 UA, which keeps the English title), keywords kept English, retained English terms wrapped in quotes, `/ua`-prefixed url and internal link, "Рисунок N." captions; Hugo build clean.*
-- [ ] T502: Open plan for Part 2 (DMLZ/DLZ architecture + Terraform modules). *Part 2 must back-link to this post (FR-6.8).*
+- [x] T502: Open plan for Part 2 (DMLZ/DLZ architecture + Terraform modules). *Part 2 must back-link to this post (FR-6.8).* → Spec package created at [specs/post-12/](../post-12/README.md); close this task when post-12 publishes with the back-link. *Closed: [content/en/blog/post-12.md](../../content/en/blog/post-12.md) and [content/ua/blog/post-12.md](../../content/ua/blog/post-12.md) include the back-link.*

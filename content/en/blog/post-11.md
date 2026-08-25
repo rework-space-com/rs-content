@@ -8,7 +8,7 @@ summary_image: '/blog-images/post-11/unified-cost-lakehouse-short.jpg'
 sharing_image: '/static-blog-images/post-11/unified-cost-lakehouse-share.jpg'
 twitter_sharing_image: '/static-blog-images/post-11/unified-cost-lakehouse-twitter-share.jpg'
 alt: 'Banner for article Beyond Separated Billing: Merging Azure Infrastructure and Databricks DBUs with FOCUS'
-keywords: [ 'FinOps', 'FOCUS', 'Azure Databricks', 'ITFM', 'cost management', 'lakehouse', 'DBU' ]
+keywords: [ 'FinOps', 'FOCUS', 'Databricks', 'Azure', 'ITFM', 'cost management', 'lakehouse', 'DBU' ]
 date: 2026-08-12
 blog_tags: [ 'FinOps', 'Azure Databricks', 'DevOps' ]
 draft: false
@@ -204,7 +204,7 @@ Identity is another of those tenant-wide services, and one we have already writt
  describes the sovereign identity core that platforms like this one plug into.
 
 We deliberately stop here. The networking, governance, and Terraform design of these landing zones deserves its own
-post, and it is coming: Part 2 will publish a complete architectural blueprint built on the open-source
+post, and it is coming: {{< color-link link_title="Part 2" path="/blog/2026-08-17-terraform-blueprint-azure-databricks-landing-zones" target="_blank" >}} will publish a complete architectural blueprint built on the open-source
 {{< color-link link_title="data management zone" path="https://github.com/PerfectThymeTech/terraform-azurerm-data-management-zone" target="_blank" >}}
  and
 {{< color-link link_title="data landing zone" path="https://github.com/PerfectThymeTech/terraform-azurerm-data-landing-zone" target="_blank" >}}
